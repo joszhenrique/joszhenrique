@@ -13,5 +13,5 @@
 </picture>
 
 <div>
-  ![snake animation](https://github.com/joszhenrique)
+ I[Snake aninatlon](https://github.com/joszhenrique/joszhenrique/blob/output/clthub-contribution-grid-snake.svg)
 </div>
